@@ -3,4 +3,4 @@ class Test():
     pass
   
   def test(self):
-    print("test")
+    print("11111")
